@@ -1,5 +1,6 @@
 # Propellor
 
-Python code for the springboard course.
+Python code for Data Science Intensive  Springboard Course.
 
 Git 
+
